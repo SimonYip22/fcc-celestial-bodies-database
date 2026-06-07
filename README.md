@@ -14,6 +14,8 @@ The project demonstrates basic relational database design using PostgreSQL, incl
 - SQL inserts
 - Database export using `pg_dump`
 
+Technical stack includes SQL and PostgreSQL
+
 ## Schema Overview
 
 The database models a simple universe structure:
