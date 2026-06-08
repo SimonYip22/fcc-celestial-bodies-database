@@ -14,7 +14,7 @@ The project demonstrates basic relational database design using PostgreSQL, incl
 - SQL inserts
 - Database export using `pg_dump`
 
-Technical stack includes SQL and PostgreSQL
+Technical stack includes SQL, PostgreSQL, psql, bash
 
 ## Schema Overview
 
